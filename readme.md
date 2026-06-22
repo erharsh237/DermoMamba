@@ -31,7 +31,7 @@ DermoMamba-Fusion replaces the prohibitive quadratic computational memory walls 
 The framework handles the extreme data skews found in the native HAM10000 dataset distribution using a robust index-mapped class balancing protocol strictly contained inside the training partition.
 
 <p align="center">
-  <img src="eda_class_imbalance.tiff" width="650" alt="Class Distribution Imbalance Chart"/>
+  <img src="eda_class_imbalance.png" width="650" alt="Class Distribution Imbalance Chart"/>
 </p>
 
 ### 2. Computational Complexity Proof
